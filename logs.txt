@@ -1,0 +1,29 @@
+commit a4f5bb1444b9aad8603c1ac908ba1262d2ae9356
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Jul 4 09:53:42 2017 -0600
+
+    integracion de bootrtrap
+
+commit b6a2adb4196fb4b874a14f7c974a86fc041f8e68
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Jul 4 09:49:27 2017 -0600
+
+    se agrego footer
+
+commit 21d301a9f988be2639563801031c70311358eb8a
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Jul 4 09:46:36 2017 -0600
+
+    Se agrego imagen y descripcion de la pagina
+
+commit 6aa7e2c34e955f23e42bc9e9e0264c3b3a2ae603
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Jul 4 09:41:02 2017 -0600
+
+    Se agrego titulo de la pagina
+
+commit 8e7b51a0524ae3464ba1fa585be87677a687f370
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Jul 4 09:36:12 2017 -0600
+
+    Proyecto con estructura inicial
